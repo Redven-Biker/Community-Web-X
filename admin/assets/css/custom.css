@@ -1,0 +1,21 @@
+.color-servers2 {
+    color: #e74c3c;
+    font-size: 15px;
+}
+.color-servers {
+    color: #2ecc71;
+    font-size: 15px;
+}
+
+.description-box {
+    font-size: 15px;
+}
+
+.space {
+    padding-bottom: 2px;
+}
+
+.date-box {
+    font-size: 13px;
+    color: red;
+}
